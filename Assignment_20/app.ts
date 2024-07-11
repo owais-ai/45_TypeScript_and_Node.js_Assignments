@@ -13,9 +13,9 @@ while (condition) {
       validate: function (input){
         if (input.trim() == ""){
             return "please provide a valid place name" // Return an error message if input is invalid
-        }{
-            return true  // Explicitly return true if the input is valid
         }
+            return true  // Explicitly return true if the input is valid
+        
       }
     
     },
