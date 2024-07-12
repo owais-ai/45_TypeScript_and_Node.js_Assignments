@@ -1,4 +1,4 @@
-let city_country= (city:string = "Karachi", country:string = "Pakistan") =>{
+let city_country: Function = (city:string = "Karachi", country:string = "Pakistan"):string =>{
     return (`"${city}, ${country}"`);
 }
 
