@@ -7,3 +7,11 @@ function show_magicians(): void {
 }
 
 show_magicians();
+
+function makeGreat(): any {
+  magicianName = magicianName.map(name => name + "the Great"
+  );
+};
+
+makeGreat();
+show_magicians();

@@ -7,3 +7,9 @@ function show_magicians() {
     });
 }
 show_magicians();
+function makeGreat() {
+    magicianName = magicianName.map(name => name + "the Great");
+}
+;
+makeGreat();
+show_magicians();

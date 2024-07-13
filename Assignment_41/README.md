@@ -1,8 +1,2 @@
-# Assignment 39
-City Names: Write a function called city_country() that takes in the name of a city and its country. The function should return a string formatted like this:
-
-"Lahore, Pakistan"
-
-Call your function with at least three city-country pairs, and print the value that’s returned.
-
-
+# Assignment 41
+Magicians: Make a array of magician’s names. Pass the array to a function called show_magicians(), which prints the name of each magician in the array.
